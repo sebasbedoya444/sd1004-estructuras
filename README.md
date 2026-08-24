@@ -1,7 +1,7 @@
-# ¿Que estructura me costó mas?
+## ¿Que estructura me costó mas?
 Los diagramas estaban relativamente fácil, según la explicación de el video que vi fue fácil imaginármelos y diagramarlos, el que me costo un poco mas entender fue el linkend list ya que va por nodos, pero después lo repase bien y lo logre hacer y entender mas.
 
-# Reto Mental
+## Reto Mental
 #### 1. Spotify
 Yo creo que utiliza la estructura de datos de Queue (una cola), porque la fila de canciones funciona estrictamente bajo la lógica FIFO (First In, First Out). La primera canción que agregas a la cola es la primera que debe sonar al terminar la actual. Un arreglo o una pila no funcionarían bien aquí porque una pila reproduciría primero lo último que agregaste, y la cola garantiza un orden de llegada.
 
